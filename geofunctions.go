@@ -1,4 +1,4 @@
-package wly
+package whlayout
 
 import "github.com/twpayne/go-geom"
 import "math"
