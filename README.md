@@ -1,6 +1,4 @@
-# whlayout
-WarehouseLayout Generator
-
+# WarehouseLayout Generator
 This lib allows you to generate a warehouse layout based on a given polygon and with layout parameters
 
 ## Getting Started
