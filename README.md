@@ -2,7 +2,7 @@
 This lib allows you to generate a warehouse layout based on a given polygon and with layout parameters
 
 ## Getting Started
-`import "github.com/md-golibs/whlayout"
+`import "github.com/md-golibs/whlayout"`
 
 In order to call the function GenerateLayout you need to pass the a []byte with the GeoJSON containing a polygon and the layout definition (type whlayout.LayoutParameters).
 
